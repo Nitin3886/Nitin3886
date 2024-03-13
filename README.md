@@ -1,4 +1,5 @@
-### Hi there 👋 I am Nitin Babu
+<h1 align="center">Hi 👋, I'm Nitin Babu</h1>
+
 
 <!--
 **Nitin3886/Nitin3886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👨‍💻 Passionate Programmer | Dedicated to Excellence<br><br>🎓 Pursuing a Bachelor's degree in Computer Science Engineering from Lovely Professional University, I am committed to honing my skills and knowledge in the field.<br><br>📚 Currently engaged in the rigorous study of Data Structures and C++, I am driven by a thirst for understanding and mastery.<br><br>🤝 Eager to collaborate with like-minded professionals on innovative Web Projects, I bring enthusiasm, creativity, and a strong work ethic to every endeavor.<br><br>🧠 Seeking guidance and expertise in Model Training, I am dedicated to continuous learning and growth.<br><br>🎯 With ambitious goals to contribute meaningfully to open source initiatives and to achieve proficiency in both DSA and Development, I am poised for success in the dynamic world of programming.
+👨‍💻 Passionate Programmer | Dedicated to Excellence 🎓 Pursuing a Bachelor's degree in Computer Science Engineering from Lovely Professional University, I am committed to honing my skills and knowledge in the field.<br><br>📚 Currently engaged in the rigorous study of Data Structures and C++, I am driven by a thirst for understanding and mastery.<br><br>🤝 Eager to collaborate with like-minded professionals on innovative Web Projects, I bring enthusiasm, creativity, and a strong work ethic to every endeavor.<br><br>🧠 Seeking guidance and expertise in Model Training, I am dedicated to continuous learning and growth.<br><br>🎯 With ambitious goals to contribute meaningfully to open source initiatives and to achieve proficiency in both DSA and Development, I am poised for success in the dynamic world of programming.
 
 
 ## 🌐 Socials:
@@ -39,6 +40,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nitin3886&icon=0&color=0)](https://visitcount.itsvg.in)
-### Snake-Eating My Contribution Graph:🐍📈
 
-<img src="https://raw.githubusercontent.com/Nitin3886/Nitin3886/output/snake.svg" alt="Snake animation" />
