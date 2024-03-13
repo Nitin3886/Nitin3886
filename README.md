@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nitin3886&icon=0&color=0)](https://visitcount.itsvg.in)
+### Snake-Eating My Contribution Graph:🐍📈
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Nitin3886/Nitin3886/output/snake.svg" alt="Snake animation" />
